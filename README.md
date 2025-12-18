@@ -113,9 +113,8 @@ Nyt tokenille kirjoittaa lyhyen luontisyyn, määritellä, kauanko se on voimass
 
  Kun token on luotu, se näytetään käyttäjälle kerran, jotta sen saa kopioitua. Nyt tällä ghp_-alkuinen tekstirimpsulla korvataan mcp.jsonin kohta {{YOUR_ACCESS_TOKEN}}. Lopputuloksena tuo rivi näyttää siis tämäntyyliseltä:
 
-```
- "Authorization": "Bearer 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"
-```
+![alt text](/kuvituskuvat/bearer.png "autorisointitokeni")
+
 Kun nyt lisätään työkalu uudestaan eli valitaan Agent Builderista Tool &rarr; MCP Server, löytyy github tästä aukeavasta valikosta. Kun se nyt valitaan, saa agentti käyttöön kaikkiaan 40 työkalua. Näistä voi tietysti valita vain ne, joita oikeasti tarvitsee, jos mielessä on jokin tarkemmin määritelty agentti. Koska tässä on vain tarkoitus kokeilla eri toimintoja, pidetään kaikki työkalut ja painetaan nappia OK.
 
 ![alt text](/kuvituskuvat/09_github_mcp.png "GitHubin MCP-palvelimen työkalulistaus")*GitHubin MCP-palvelimen työkalulistaus*
