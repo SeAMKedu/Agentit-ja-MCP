@@ -1,5 +1,7 @@
 # Johdatus agentteihin ja MCP-palvelimiin
 
+[![DOI](https://zenodo.org/badge/1118733858.svg)](https://doi.org/10.5281/zenodo.17974076)
+
 Agentit ovat tekoälyyn perustuvia ohjelmia, jotka pystyvät toimimaan itsenäisesti käyttäjän puolesta. Ne eivät ainoastaan vastaa kysymyksiin, vaan voivat myös tehdä päätöksiä, suorittaa monivaiheisia tehtäviä ja käyttää erilaisia työkaluja tai palveluita, kuten tiedonhakua, tiedostojen käsittelyä tai ohjelmointirajapintoja. Agentti toimii sille annettujen ohjeiden (kehotteiden), käytettävän kielimallin ja saatavilla olevien työkalujen perusteella, ja sitä voidaan käyttää esimerkiksi apuohjelmana, chatbotina tai osana laajempaa sovellusta.
 
 MCP-palvelimet (Model Context Protocol, mallikontekstiprotokolla) ovat palveluita, jotka tarjoavat agenteille pääsyn ulkoisiin toimintoihin ja tietolähteisiin yhtenäisellä tavalla. MCP määrittelee standardoidun rajapinnan, jonka kautta agentti voi pyytää esimerkiksi tietokantahakuja, tiedostojen lukemista tai muiden järjestelmien toimintoja.

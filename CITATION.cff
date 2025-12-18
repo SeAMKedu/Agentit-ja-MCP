@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Hirvonen
+    given-names: Juha
+    orcid: https://orcid.org/0000-0001-6704-572X
+title: "Johdatus agentteihin ja MCP-palvelimiin"
+version: 0.1.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17974076
+date-released: 2025-12-18
+url: "https://doi.org/10.5281/zenodo.17974076"
